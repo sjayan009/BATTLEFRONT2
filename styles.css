@@ -1,0 +1,273 @@
+body{
+	background-color: powderblue
+}
+
+.footer {
+   display: flex;
+   justify-content: flex-end;
+   	margin-top: 10px;
+}
+
+.footer a{
+	margin-left: 10px;
+}
+
+.footer p{
+	font-size: 20px;
+}
+
+a:visited{
+	color: blue
+}
+
+.specifications{
+	display: flex;
+}
+
+.specifications h3{
+	display: flex;
+	justify-content: center;
+	margin: center;
+	text-align: center;
+}
+
+.HEADER{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+.whatIs1{
+	font-family: cambria;
+	font-size: 20.5px;
+	width: 625px;
+}
+
+.whatIs1 h5{
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 20px;
+}
+
+.SPECS {
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 20px;
+}
+
+.outer{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.Felucia img{
+	width: 850px;
+	height: 500px;
+}
+
+.spacebattle iframe{
+	width: 725px;
+	height: 400px;
+}
+
+.spacebattle:hover iframe{
+	border: 5px solid red;
+}
+
+.Felucia:hover img{
+	border: 5px solid green;
+}
+
+.HEROES{
+	border: 5px solid red;
+	width: 550px;
+	height: 75px;
+	margin-top: 20px;
+	margin-left: 5px;
+	font-size: 18px;
+}
+
+.TRAILERS{
+	border: 5px solid green;
+	width: 550px;
+	height: 75px;
+	margin-top: 20px;
+	margin-left: 5px;
+	font-size: 18px;
+}
+
+.STARSHIPS{
+	margin-left: 5px;	
+	border: 5px solid yellow;
+	width: 550px;
+	height: 75px;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+.BATTLES{
+	border: 5px solid blue;
+	width: 600px;
+	height: 75px;
+	margin-top: 20px;
+	margin-left: 5px;
+	font-size: 18px;
+}
+
+
+.JEDI {
+    width: 250px;
+	height: 100px;
+	border: 25px solid green;
+}
+
+.JEDI h1{
+	text-align: center;
+}
+
+
+.bluejedi:hover img{
+	border: 10px solid blue;
+	margin-top: 10px;
+}
+
+.bluejedi h1{
+	justify-content: center;
+	margin-top: 10px;
+}
+
+.greenjedi h1{
+	justify-content: center;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.yellowjedi h1{
+	justify-content: center;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.redsith h1{
+	justify-content: center;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.gunners h1{
+	justify-content: center;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.yellowjedi:hover img{
+	border: 10px solid yellow;
+}
+
+.greenjedi:hover img{
+	border: 10px solid green;
+}
+
+.redsith:hover img{
+	border: 10px solid red;
+}
+
+.gunners:hover img{
+	border: 10px solid grey;
+}
+
+.SITH {
+	margin-left: 10px;
+	border: 25px solid red;
+    width: 250px;
+	height: 100px;
+}
+
+.SITH h1 {
+	text-align: center;
+}
+
+.JEDI_SITH_CENTER{
+	display: flex;
+	justify-content: center;
+	margin: center;
+}
+.footerSITH{
+    display: flex;
+	justify-content: center;
+	border: 25px solid red;
+}
+
+.footerJEDI{
+	display: flex;
+	justify-content: center;
+	border: 25px solid green;
+}
+
+.aboutme{
+	float:left;
+	border: 10px solid purple;
+	width: 550px;
+	height: 350px;
+	margin: center;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.aboutme ol{
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.aboutme p{
+
+	font-size: 20px;
+	color: white;
+	background-color: black;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+}	
+
+.footerHOME{
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+	border: 25px solid purple;
+}
+
+.footerAboutMe a{
+   margin-left: 20px;
+   display: flex;
+   justify-content: flex-end;
+}
+
+.coverImage:hover img{
+	border: 12.5px solid blue;
+}
+
+.coverImage img{
+	height: 550px;
+}
+
+.coverImage1 img{
+	height: 525px;
+}
+
+.coverImage1:hover img{
+	border: 12.5px solid blue;
+}
+
+.heroesvsvillains {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.VID{
+	height: 100px;
+}
